@@ -24,7 +24,6 @@
         "GitHub.copilot",
         "ms-vscode.azure-account",
         "ms-azuretools.vscode-azurestaticwebapps",
-        "oderwat.indent-rainbow"
       ],
       "settings": {
         "emmet.includeLanguages": {
